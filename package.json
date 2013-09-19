@@ -1,5 +1,5 @@
 {
-  "name": "melt",
+  "name": "melt-data",
   "version": "0.2.0",
   "description": "Javascript library inspired by the R reshape package",
   "homepage": "http://git.io/melt",
