@@ -35,6 +35,7 @@ API
   * `keep` _array of strings_ - names of object keys to keep
   * `varName` _string_ - name of the key to use in the molten objects for the former keys (those not in keep)
   * `varName` _string_ - name of the key to use in the molten objects for the former values
+  * `noAddId` _bool_ - if truthy, don't add the _id value to the resulting object
 
 **cast(data, keep, fun, funArgs ...)**
 
