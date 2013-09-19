@@ -1,6 +1,6 @@
 {
   "name": "melt-data",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Javascript library inspired by the R reshape package",
   "homepage": "http://git.io/melt",
   "main": "melt.js",
