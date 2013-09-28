@@ -110,5 +110,5 @@ melt = (function (undefined) {
 
   melt.cast = cast;
   return melt;
-})(undefined),
+})(),
   cast = melt.cast;
