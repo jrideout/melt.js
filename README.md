@@ -60,3 +60,5 @@ API
 License
 -------
 Apache 2
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/afc363febca2d9664d93fff41e259004 "githalytics.com")](http://githalytics.com/jrideout/melt.js)
