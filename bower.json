@@ -1,0 +1,25 @@
+{
+  "name": "melt",
+  "main": "melt.js",
+  "version": "0.2.1",
+  "homepage": "http://git.io/melt",
+  "authors": [
+    "Jacob Rideout <jacob@jacobrideout.net>"
+  ],
+  "description": "Javascript library inspired by the R reshape package",
+  "keywords": [
+    "json",
+    "object",
+    "reshape",
+    "melt",
+    "cast"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
